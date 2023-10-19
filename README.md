@@ -12,17 +12,18 @@ Presenters:
 
 <!-- * [Slides](https://www.slideshare.net/ErasmoPurificato2/tutorial-on-user-profiling-with-graph-neural-networks-and-related-beyondaccuracy-perspectives) -->
 * [Website](https://beyondaccuracy-userprofiling.github.io/tutorial-cikm23/)
-<!-- * [Google Drive folder](https://drive.google.com/drive/folders/1bNDrHaqmvQH8iiNcbMnetYgcq6y3roGM)
-* [Notebook 1: CatGCN](https://colab.research.google.com/drive/1mbo-PXiRhG_g8frBN3CaY0rBDDn2P9qu?usp=sharing)
-* [Notebook 2: RHGN](https://colab.research.google.com/drive/1Cu1seA9Cm4B-E4XriKkjVRGMMSn5YC1s?usp=sharing)
-* [Notebook 3: Fairness](https://colab.research.google.com/drive/1CtaUNao4BBxqeq7OXv_ap5h-PGuQIIlN?usp=sharing)
-* [Notebook 4: FairGNN](https://colab.research.google.com/drive/13qnZ-iDf5WdttQPwHfTI1bJTNMGwHBDx?usp=sharing) -->
+* [Resource Folder](https://drive.google.com/drive/folders/18Y0rKw_ORvOGcCw0eP6zaDdXRuTRb-Cf?usp=share_link) (*no dataset*)
+* [Datasets](http://gofile.me/72h0u/qdRw7y26c)
+* [Notebook 1: CatGCN](https://colab.research.google.com/drive/18qsiY8PbEPZIL5T5Bh3E3Yv1DF_yyF3W?usp=sharing)
+* [Notebook 2: RHGN](https://colab.research.google.com/drive/18pl3aSwuh0RewcvaL84nYnnOUKtbnSVr?usp=sharing)
+* [Notebook 3: Fairness](https://colab.research.google.com/drive/18pTVtbZj4aWiCadK9wwnIkGoLt7o0V8R?usp=sharing)
+* [Notebook 4: FairGNN](https://colab.research.google.com/drive/18nLSYCcY_lvFp-6wDIE6wUqfP4tYW7oU?usp=sharing)
 
-The rest of the material will be released soon.
+<!-- The rest of the material will be released soon. -->
 
-<!-- ## Citation
+## Citation
 
-If you find the topics and the slides of the tutorial useful for your research, we would appreciate an acknowledgment by citing our summary in the UMAP'23 proceedings:
+<!-- If you find the topics and the slides of the tutorial useful for your research, we would appreciate an acknowledgment by citing our summary in the UMAP'23 proceedings:
 
 ```
 @inproceedings{10.1145/3565472.3595616,
@@ -41,9 +42,9 @@ If you find the topics and the slides of the tutorial useful for your research, 
   location = {Limassol, Cyprus},
   series = {UMAP '23}
 }
-```
+``` -->
 
-If you also appreciate the hands-on sessions and the notebooks, we would be glad to have your acknowledgement in case they are helpful for your research by citing our CIKM'22 and SIGIR'23 papers:
+If you appreciate the hands-on sessions and the notebooks, we would be glad to have your acknowledgement in case they are helpful for your research by citing our CIKM'22 and SIGIR'23 papers, and our previous tutorial presented at UMAP'23:
 
 ```
 @inproceedings{10.1145/3511808.3557584,
@@ -78,4 +79,22 @@ If you also appreciate the hands-on sessions and the notebooks, we would be glad
   series =  {SIGIR '23}
 }
 ```
--->
+
+```
+@inproceedings{10.1145/3565472.3595616,
+  author = {Purificato, Erasmo and Boratto, Ludovico and De Luca, Ernesto William},
+  title = {Tutorial on User Profiling with Graph Neural Networks and Related Beyond-Accuracy Perspectives},
+  year = {2023},
+  isbn = {9781450399326},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3565472.3595616},
+  doi = {10.1145/3565472.3595616},
+  booktitle = {Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization},
+  pages = {309–312},
+  numpages = {4},
+  keywords = {Explainability, Fairness, User Profiling, Graph Neural Networks},
+  location = {Limassol, Cyprus},
+  series = {UMAP '23}
+}
+```
