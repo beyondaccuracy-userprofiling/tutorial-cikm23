@@ -1,0 +1,20 @@
+python3 main.py \
+    --seed 11 \
+    --gpu 0 \
+    --learning-rate 0.1 \
+    --weight-decay 1e-5 \
+    --dropout 0.1 \
+    --grn-units 64 \
+    --nfm-units none \
+    --graph-layer pna \
+    --gnn-hops 1 \
+    --gnn-units none \
+    --aggr-style sum \
+    --balance-ratio 0.7 \
+    --edge-path ./input_ali_data/user_edge.csv \
+    --field-path ./input_ali_data/user_field.npy \
+    --target-path ./input_ali_data/user_gender.csv \
+    --labels-path ./input_ali_data/user_labels.csv \
+    --label gender \
+    --compute-fairness True \
+    --sens-attr bin_age
