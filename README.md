@@ -12,7 +12,7 @@ Presenters:
 
 <!-- * [Slides](https://www.slideshare.net/ErasmoPurificato2/tutorial-on-user-profiling-with-graph-neural-networks-and-related-beyondaccuracy-perspectives) -->
 * [Website](https://beyondaccuracy-userprofiling.github.io/tutorial-cikm23/)
-* [Resource Folder](https://drive.google.com/drive/folders/18Y0rKw_ORvOGcCw0eP6zaDdXRuTRb-Cf?usp=share_link) (*no dataset*)
+* [Resource Folder](https://drive.google.com/drive/folders/18Y0rKw_ORvOGcCw0eP6zaDdXRuTRb-Cf?usp=share_link) (*no datasets*)
 * [Datasets](http://gofile.me/72h0u/qdRw7y26c)
 * [Notebook 1: CatGCN](https://colab.research.google.com/drive/18qsiY8PbEPZIL5T5Bh3E3Yv1DF_yyF3W?usp=sharing)
 * [Notebook 2: RHGN](https://colab.research.google.com/drive/18pl3aSwuh0RewcvaL84nYnnOUKtbnSVr?usp=sharing)
