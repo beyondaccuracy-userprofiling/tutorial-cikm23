@@ -10,7 +10,7 @@ Presenters:
 
 ## Material
 
-<!-- * [Slides](https://www.slideshare.net/ErasmoPurificato2/tutorial-on-user-profiling-with-graph-neural-networks-and-related-beyondaccuracy-perspectives) -->
+* [Slides](https://www.slideshare.net/ErasmoPurificato2/leveraging-graph-neural-networks-for-user-profiling-recent-advances-and-open-challenges)
 * [Website](https://beyondaccuracy-userprofiling.github.io/tutorial-cikm23/)
 * [Resource Folder](https://drive.google.com/drive/folders/18Y0rKw_ORvOGcCw0eP6zaDdXRuTRb-Cf?usp=share_link) (*no datasets*)
 * [Datasets](http://gofile.me/72h0u/qdRw7y26c)
@@ -23,28 +23,28 @@ Presenters:
 
 ## Citation
 
-<!-- If you find the topics and the slides of the tutorial useful for your research, we would appreciate an acknowledgment by citing our summary in the UMAP'23 proceedings:
+If you find the topics and the slides of the tutorial useful for your research, we would appreciate an acknowledgment by citing our summary in the CIKM '23 proceedings:
 
 ```
-@inproceedings{10.1145/3565472.3595616,
-  author = {Purificato, Erasmo and Boratto, Ludovico and De Luca, Ernesto William},
-  title = {Tutorial on User Profiling with Graph Neural Networks and Related Beyond-Accuracy Perspectives},
-  year = {2023},
-  isbn = {9781450399326},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3565472.3595616},
-  doi = {10.1145/3565472.3595616},
-  booktitle = {Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization},
-  pages = {309–312},
-  numpages = {4},
-  keywords = {Explainability, Fairness, User Profiling, Graph Neural Networks},
-  location = {Limassol, Cyprus},
-  series = {UMAP '23}
+@inproceedings{10.1145/3583780.3615292,
+author = {Purificato, Erasmo and Boratto, Ludovico and De Luca, Ernesto William},
+title = {Leveraging Graph Neural Networks for User Profiling: Recent Advances and Open Challenges},
+year = {2023},
+isbn = {9798400701245},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3583780.3615292},
+doi = {10.1145/3583780.3615292},
+booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+pages = {5216–5219},
+numpages = {4},
+keywords = {graph neural networks, explainability, user profiling, fairness},
+location = {Birmingham, United Kingdom},
+series = {CIKM '23}
 }
-``` -->
+```
 
-If you appreciate the hands-on sessions and the notebooks, we would be glad to have your acknowledgement in case they are helpful for your research by citing our CIKM'22 and SIGIR'23 papers, and our previous tutorial presented at UMAP'23:
+If you appreciate the hands-on sessions and the notebooks, we would be glad to have your acknowledgement in case they are helpful for your research by citing our CIKM '22 and SIGIR '23 papers, and our previous tutorial presented at UMAP '23:
 
 ```
 @inproceedings{10.1145/3511808.3557584,
